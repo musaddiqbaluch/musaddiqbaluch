@@ -56,22 +56,13 @@ No computer science degree. No big city. Just a curious mind from the **coast of
 
 <!-- ░░░░░░░░░░  STATS DASHBOARD  ░░░░░░░░░░ -->
 
-<h3 align="center">⭐ &nbsp; Stats Dashboard</h3>
+<h3 align="center">📊 &nbsp; Stats</h3>
 
 <div align="center">
 
-<!-- Reliable shields.io badges for followers + total stars (up to 200 repos) -->
-
-| Metric | Count |
-|--------|-------|
-| ⭐ Total Stars (all repos) | ![stars](https://img.shields.io/github/stars/musaddiqbaluch?style=flat-square&color=1B6B52&labelColor=CEE8DB&logo=github&logoColor=1B6B52) |
-| 👥 Followers | ![followers](https://img.shields.io/github/followers/musaddiqbaluch?style=flat-square&color=1B6B52&labelColor=CEE8DB&logo=github&logoColor=1B6B52) |
-| 👁️ Profile Views | ![views](https://komarev.com/ghpvc/?username=musaddiqbaluch&style=flat-square&color=1B6B52&labelColor=CEE8DB) |
-
-&nbsp;
-
-<!-- Streak stats with cache param for stability -->
-<img src="https://streak-stats.demolab.com/?user=musaddiqbaluch&hide_border=true&background=CEE8DB&ring=1B6B52&fire=1B6B52&currStreakLabel=1B6B52&sideLabels=1B6B52&dates=1B6B52&stroke=CEE8DB&currStreakNum=1B6B52&sideNums=1B6B52&cache_seconds=86400" width="420" alt="Streak Stats"/>
+![Total Stars](https://img.shields.io/github/stars/musaddiqbaluch?style=for-the-badge&logo=github&logoColor=1B6B52&label=Total%20Stars&color=1B6B52&labelColor=CEE8DB)&nbsp;
+![Followers](https://img.shields.io/github/followers/musaddiqbaluch?style=for-the-badge&logo=github&logoColor=1B6B52&label=Followers&color=1B6B52&labelColor=CEE8DB)&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=musaddiqbaluch&style=for-the-badge&color=1B6B52&label=PROFILE+VIEWS)
 
 </div>
 

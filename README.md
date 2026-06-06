@@ -22,10 +22,6 @@
 
 <!-- ░░░░░░░░░░  ABOUT  ░░░░░░░░░░ -->
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
 <h3>👤 &nbsp; About Me</h3>
 
 I build **small, focused apps** — utilities and productivity tools that solve real, everyday problems.
@@ -36,49 +32,23 @@ No computer science degree. No big city. Just a curious mind from the **coast of
 
 &nbsp;
 
-<table>
-<tr>
-<td align="center" width="50%">
+<div align="center">
 
-```
-📍  Pasni, Baluchistan, PK
-📱  Android App Developer
-🛠️  Utility & Productivity Apps
-🤖  AI-assisted development
-🌱  Self-taught & always growing
-```
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="52" alt="Android"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="52" alt="Java"/>
 
-</td>
-<td align="center" width="50%">
-
-```
-→  Platform    Android
-→  Language    Java
-→  Toolchain   Sketchware Pro
-→  AI-assist   Code & Design
-→  Stores      GitHub · Sideloads
-```
-
-</td>
-</tr>
-</table>
-
-</td>
-<td width="42%" valign="top" align="center">
+</div>
 
 &nbsp;
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="68" alt="Android"/>
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="68" alt="Java"/>
-
-&nbsp;
-
-<img src="https://github-readme-stats.vercel.app/api?username=musaddiqbaluch&show_icons=true&count_private=true&hide_border=true&title_color=1B6B52&icon_color=1B6B52&text_color=1B6B52&bg_color=CEE8DB&ring_color=1B6B52&include_all_commits=true&cache_seconds=86400" width="100%" alt="GitHub Stats"/>
-
-</td>
-</tr>
-</table>
+```
+📍  Pasni, Baluchistan, PK       →  Platform    Android
+📱  Android App Developer        →  Language    Java
+🛠️  Utility & Productivity Apps  →  Toolchain   Sketchware Pro
+🤖  AI-assisted development      →  AI-assist   Code & Design
+🌱  Self-taught & always growing →  Stores      GitHub · Sideloads
+```
 
 &nbsp;
 

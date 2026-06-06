@@ -11,8 +11,8 @@
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/musaddiqbaluch?style=flat-square&color=1B6B52&labelColor=CEE8DB&label=followers&logo=github&logoColor=1B6B52)](https://github.com/musaddiqbaluch?tab=followers)&nbsp;
-[![GitHub User's stars](https://img.shields.io/github/stars/musaddiqbaluch?style=flat-square&color=F5A800&labelColor=D4A000&label=total%20stars&logo=github&logoColor=ffffff)](https://github.com/musaddiqbaluch?tab=repositories)&nbsp;
-[![Profile views](https://komarev.com/ghpvc/?username=musaddiqbaluch&style=flat-square&color=1a73e8&label=profile+views)](https://github.com/musaddiqbaluch)
+[![GitHub User's stars](https://img.shields.io/github/stars/musaddiqbaluch?style=flat-square&color=D9B856&labelColor=EEEDDE&label=total%20stars&logo=github&logoColor=D9B856)](https://github.com/musaddiqbaluch?tab=repositories)&nbsp;
+[![Profile views](https://komarev.com/ghpvc/?username=musaddiqbaluch&style=flat-square&color=8FB8E0&label=profile+views)](https://github.com/musaddiqbaluch)
 
 </div>
 
@@ -60,9 +60,9 @@ No computer science degree. No big city. Just a curious mind from the **coast of
 
 <div align="center">
 
-![Total Stars](https://img.shields.io/github/stars/musaddiqbaluch?style=for-the-badge&logo=github&logoColor=ffffff&label=Total%20Stars&color=F5A800&labelColor=D4A000)&nbsp;
-![Followers](https://img.shields.io/github/followers/musaddiqbaluch?style=for-the-badge&logo=github&logoColor=ffffff&label=Followers&color=1B6B52&labelColor=CEE8DB)&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=musaddiqbaluch&style=for-the-badge&color=1a73e8&label=PROFILE+VIEWS)
+![Total Stars](https://img.shields.io/github/stars/musaddiqbaluch?style=for-the-badge&logo=github&logoColor=D9B856&label=Total%20Stars&color=D9B856&labelColor=EEEDDE)&nbsp;
+![Followers](https://img.shields.io/github/followers/musaddiqbaluch?style=for-the-badge&logo=github&logoColor=1B6B52&label=Followers&color=1B6B52&labelColor=CEE8DB)&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=musaddiqbaluch&style=for-the-badge&color=8FB8E0&label=PROFILE+VIEWS)
 
 </div>
 

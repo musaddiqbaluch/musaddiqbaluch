@@ -1,9 +1,7 @@
-
-
 <!-- ░░░░░░░░░░  HEADER BANNER  ░░░░░░░░░░ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4f0ec,50:a8ddd7,100:1a7a7a&height=160&section=header&text=Musaddiq%20Baluch&fontSize=46&fontColor=0d4f4f&fontAlignY=42&animation=fadeIn&desc=Indie%20Android%20App%20Developer%20%E2%80%A2%20Pasni%2C%20Baluchistan&descAlignY=62&descSize=15&descColor=1a7a7a" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CEE8DB,50:CEE8DB,100:1B6B52&height=160&section=header&text=Musaddiq%20Baluch&fontSize=46&fontColor=1B6B52&fontAlignY=42&animation=fadeIn&desc=Indie%20Android%20App%20Developer%20%E2%80%A2%20Pasni%2C%20Baluchistan&descAlignY=62&descSize=15&descColor=1B6B52" width="100%"/>
 
 </div>
 
@@ -12,9 +10,9 @@
 <!-- ░░░░░░░░░░  SOCIAL BADGES (all shields.io — reliable)  ░░░░░░░░░░ -->
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/musaddiqbaluch?style=flat-square&color=1a7a7a&labelColor=d4f0ec&label=followers&logo=github&logoColor=0d4f4f)](https://github.com/musaddiqbaluch?tab=followers)&nbsp;
-[![GitHub User's stars](https://img.shields.io/github/stars/musaddiqbaluch?style=flat-square&color=1a7a7a&labelColor=d4f0ec&label=total%20stars&logo=github&logoColor=0d4f4f)](https://github.com/musaddiqbaluch?tab=repositories)&nbsp;
-[![Profile views](https://komarev.com/ghpvc/?username=musaddiqbaluch&style=flat-square&color=1a7a7a&labelColor=d4f0ec&label=profile+views)](https://github.com/musaddiqbaluch)
+[![GitHub followers](https://img.shields.io/github/followers/musaddiqbaluch?style=flat-square&color=1B6B52&labelColor=CEE8DB&label=followers&logo=github&logoColor=1B6B52)](https://github.com/musaddiqbaluch?tab=followers)&nbsp;
+[![GitHub User's stars](https://img.shields.io/github/stars/musaddiqbaluch?style=flat-square&color=1B6B52&labelColor=CEE8DB&label=total%20stars&logo=github&logoColor=1B6B52)](https://github.com/musaddiqbaluch?tab=repositories)&nbsp;
+[![Profile views](https://komarev.com/ghpvc/?username=musaddiqbaluch&style=flat-square&color=1B6B52&labelColor=CEE8DB&label=profile+views)](https://github.com/musaddiqbaluch)
 
 </div>
 
@@ -76,7 +74,7 @@ No computer science degree. No big city. Just a curious mind from the **coast of
 
 &nbsp;
 
-<img src="https://github-readme-stats.vercel.app/api?username=musaddiqbaluch&show_icons=true&count_private=true&hide_border=true&title_color=0d4f4f&icon_color=1a7a7a&text_color=0d4f4f&bg_color=d4f0ec&ring_color=1a7a7a&include_all_commits=true&cache_seconds=86400" width="100%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=musaddiqbaluch&show_icons=true&count_private=true&hide_border=true&title_color=1B6B52&icon_color=1B6B52&text_color=1B6B52&bg_color=CEE8DB&ring_color=1B6B52&include_all_commits=true&cache_seconds=86400" width="100%" alt="GitHub Stats"/>
 
 </td>
 </tr>
@@ -96,14 +94,14 @@ No computer science degree. No big city. Just a curious mind from the **coast of
 
 | Metric | Count |
 |--------|-------|
-| ⭐ Total Stars (all repos) | ![stars](https://img.shields.io/github/stars/musaddiqbaluch?style=flat-square&color=0d4f4f&labelColor=d4f0ec&logo=github&logoColor=0d4f4f) |
-| 👥 Followers | ![followers](https://img.shields.io/github/followers/musaddiqbaluch?style=flat-square&color=0d4f4f&labelColor=d4f0ec&logo=github&logoColor=0d4f4f) |
-| 👁️ Profile Views | ![views](https://komarev.com/ghpvc/?username=musaddiqbaluch&style=flat-square&color=0d4f4f&labelColor=d4f0ec) |
+| ⭐ Total Stars (all repos) | ![stars](https://img.shields.io/github/stars/musaddiqbaluch?style=flat-square&color=1B6B52&labelColor=CEE8DB&logo=github&logoColor=1B6B52) |
+| 👥 Followers | ![followers](https://img.shields.io/github/followers/musaddiqbaluch?style=flat-square&color=1B6B52&labelColor=CEE8DB&logo=github&logoColor=1B6B52) |
+| 👁️ Profile Views | ![views](https://komarev.com/ghpvc/?username=musaddiqbaluch&style=flat-square&color=1B6B52&labelColor=CEE8DB) |
 
 &nbsp;
 
 <!-- Streak stats with cache param for stability -->
-<img src="https://streak-stats.demolab.com/?user=musaddiqbaluch&hide_border=true&background=e8f8f5&ring=1a7a7a&fire=0d4f4f&currStreakLabel=0d4f4f&sideLabels=1a7a7a&dates=1a7a7a&stroke=d4f0ec&currStreakNum=0d4f4f&sideNums=0d4f4f&cache_seconds=86400" width="420" alt="Streak Stats"/>
+<img src="https://streak-stats.demolab.com/?user=musaddiqbaluch&hide_border=true&background=CEE8DB&ring=1B6B52&fire=1B6B52&currStreakLabel=1B6B52&sideLabels=1B6B52&dates=1B6B52&stroke=CEE8DB&currStreakNum=1B6B52&sideNums=1B6B52&cache_seconds=86400" width="420" alt="Streak Stats"/>
 
 </div>
 
@@ -175,12 +173,12 @@ No computer science degree. No big city. Just a curious mind from the **coast of
 
 <div align="left">
 
-![Java](https://img.shields.io/badge/Java-e8f8f5?style=for-the-badge&logo=openjdk&logoColor=0d4f4f)&nbsp;
-![Android](https://img.shields.io/badge/Android-e8f8f5?style=for-the-badge&logo=android&logoColor=1a7a7a)&nbsp;
-![Sketchware Pro](https://img.shields.io/badge/Sketchware_Pro-d4f0ec?style=for-the-badge&logoColor=0d4f4f)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-d4f0ec?style=for-the-badge&logo=github&logoColor=0d4f4f)&nbsp;
-![SVG](https://img.shields.io/badge/SVG%20Design-e8f8f5?style=for-the-badge&logoColor=1a7a7a)&nbsp;
-![AI Assisted](https://img.shields.io/badge/AI--Assisted%20Dev-d4f0ec?style=for-the-badge&logoColor=0d4f4f)
+![Java](https://img.shields.io/badge/Java-CEE8DB?style=for-the-badge&logo=openjdk&logoColor=1B6B52)&nbsp;
+![Android](https://img.shields.io/badge/Android-CEE8DB?style=for-the-badge&logo=android&logoColor=1B6B52)&nbsp;
+![Sketchware Pro](https://img.shields.io/badge/Sketchware_Pro-CEE8DB?style=for-the-badge&logoColor=1B6B52)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-CEE8DB?style=for-the-badge&logo=github&logoColor=1B6B52)&nbsp;
+![SVG](https://img.shields.io/badge/SVG%20Design-CEE8DB?style=for-the-badge&logoColor=1B6B52)&nbsp;
+![AI Assisted](https://img.shields.io/badge/AI--Assisted%20Dev-CEE8DB?style=for-the-badge&logoColor=1B6B52)
 
 </div>
 
@@ -226,10 +224,10 @@ No computer science degree. No big city. Just a curious mind from the **coast of
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=1a7a7a&center=true&vCenter=true&width=480&lines=From+Pasni+%E2%80%94+building+for+the+world.;Learning+every+day.+Shipping+anyway.;One+app+at+a+time.;Utility+%C2%B7+Productivity+%C2%B7+Android." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=1B6B52&center=true&vCenter=true&width=480&lines=From+Pasni+%E2%80%94+building+for+the+world.;Learning+every+day.+Shipping+anyway.;One+app+at+a+time.;Utility+%C2%B7+Productivity+%C2%B7+Android." alt="Typing SVG"/>
 
 &nbsp;
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a7a7a,50:a8ddd7,100:d4f0ec&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B6B52,50:CEE8DB,100:CEE8DB&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>

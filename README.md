@@ -199,4 +199,4 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EAF7EF,50:3DDC84,100:0B6B45&height=115&section=footer&animation=fadeIn" width="100%"/>
 
-</div>
+</div> 

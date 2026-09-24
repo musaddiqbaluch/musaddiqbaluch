@@ -1,194 +1,356 @@
-<!-- ░░░░░░░░░░  HEADER BANNER  ░░░░░░░░░░ -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CEE8DB,50:CEE8DB,100:1B6B52&height=160&section=header&text=Musaddiq%20Baluch&fontSize=46&fontColor=1B6B52&fontAlignY=42&animation=fadeIn&desc=Indie%20Android%20App%20Developer%20%E2%80%A2%20Pasni%2C%20Baluchistan&descAlignY=62&descSize=15&descColor=1B6B52" width="100%"/>
-
-</div>
-
+<!-- ╭──────────────────────────────────────────────────────────────╮ --><!--                    MUSADDIQ BALUCH README                     --><!-- ╰──────────────────────────────────────────────────────────────╯ --><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:EAF7EF,55:3DDC84,100:0B6B45&height=175&section=header&text=Musaddiq%20Baluch&fontSize=46&fontColor=073D29&fontAlignY=40&animation=fadeIn&desc=Indie%20Android%20Developer%20%7C%20Utilities%20%E2%80%A2%20Privacy%20%E2%80%A2%20Productivity&descAlignY=61&descSize=15&descColor=245D47" width="100%"/><br/><a href="https://github.com/musaddiqbaluch">
+<img src="https://img.shields.io/badge/Android%20Developer-3DDC84?style=for-the-badge&logo=android&logoColor=073D29" alt="Android Developer"/>
+</a>
 &nbsp;
-
-<!-- ░░░░░░░░░░  SOCIAL BADGES (all shields.io — reliable)  ░░░░░░░░░░ -->
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/musaddiqbaluch?style=flat-square&color=1B6B52&labelColor=CEE8DB&label=followers&logo=github&logoColor=1B6B52)](https://github.com/musaddiqbaluch?tab=followers)&nbsp;
-[![GitHub User's stars](https://img.shields.io/github/stars/musaddiqbaluch?style=flat-square&color=D9B856&labelColor=EEEDDE&label=total%20stars&logo=github&logoColor=D9B856)](https://github.com/musaddiqbaluch?tab=repositories)&nbsp;
-[![Profile views](https://komarev.com/ghpvc/?username=musaddiqbaluch&style=flat-square&color=8FB8E0&label=profile+views)](https://github.com/musaddiqbaluch)
-
-</div>
-
+<a href="https://github.com/musaddiqbaluch?tab=repositories">
+<img src="https://img.shields.io/badge/Java-3DDC84?style=for-the-badge&logo=openjdk&logoColor=073D29" alt="Java"/>
+</a>
 &nbsp;
+<a href="https://github.com/musaddiqbaluch">
+<img src="https://img.shields.io/badge/Material%203-EAF7EF?style=for-the-badge&logo=materialdesign&logoColor=0B6B45" alt="Material 3"/>
+</a><br/><br/>
 
----
+""GitHub followers" (https://img.shields.io/github/followers/musaddiqbaluch?style=flat-square&color=3DDC84&labelColor=EAF7EF&label=followers&logo=github&logoColor=0B6B45)" (https://github.com/musaddiqbaluch?tab=followers)
+ 
+""Total stars" (https://img.shields.io/github/stars/musaddiqbaluch?style=flat-square&color=3DDC84&labelColor=EAF7EF&label=total%20stars&logo=github&logoColor=0B6B45)" (https://github.com/musaddiqbaluch?tab=repositories)
+ 
+""Profile views" (https://komarev.com/ghpvc/?username=musaddiqbaluch&style=flat-square&color=3DDC84&label=profile+views)" (https://github.com/musaddiqbaluch)
 
-<!-- ░░░░░░░░░░  ABOUT  ░░░░░░░░░░ -->
+</div><br/>---
 
-<h3>👤 &nbsp; About Me</h3>
-
-I build **small, focused apps** — utilities and productivity tools that solve real, everyday problems.
-
-Self-taught. Still learning. I leverage AI to accelerate development while staying focused on what matters most: **ideas**, **design**, and **shipping things that actually work**.
-
-No computer science degree. No big city. Just a curious mind from the **coast of Baluchistan** — figuring things out, one app at a time.
-
-&nbsp;
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="52" alt="Android"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="52" alt="Java"/>
-
-</div>
-
-&nbsp;
-
-```
-📍  Pasni, Baluchistan, PK       →  Platform    Android
-📱  Android App Developer        →  Language    Java
-🛠️  Utility & Productivity Apps  →  Toolchain   Sketchware Pro
-🤖  AI-assisted development      →  AI-assist   Code & Design
-🌱  Self-taught & always growing →  Stores      GitHub · Sideloads
-```
-
-&nbsp;
-
----
-
-<!-- ░░░░░░░░░░  STATS DASHBOARD  ░░░░░░░░░░ -->
-
-<h3 align="center">📊 &nbsp; Stats</h3>
-
-<div align="center">
-
-![Total Stars](https://img.shields.io/github/stars/musaddiqbaluch?style=for-the-badge&logo=github&logoColor=D9B856&label=Total%20Stars&color=D9B856&labelColor=EEEDDE)&nbsp;
-![Followers](https://img.shields.io/github/followers/musaddiqbaluch?style=for-the-badge&logo=github&logoColor=1B6B52&label=Followers&color=1B6B52&labelColor=CEE8DB)&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=musaddiqbaluch&style=for-the-badge&color=8FB8E0&label=PROFILE+VIEWS)
-
-</div>
-
-&nbsp;
-
----
-
-<!-- ░░░░░░░░░░  WHAT I BUILD  ░░░░░░░░░░ -->
-
-<h3>📱 &nbsp; What I Build</h3>
-
-<div align="center">
+About
 
 <table>
 <tr>
+<td width="62%" valign="top">👋 Hi, I'm Musaddiq.
 
-<td align="center" width="33%">
-<br/>
-🔧<br/><br/>
-<strong>Utility Apps</strong><br/>
-<sub>Small tools that do<br/>one thing, really well</sub>
-<br/>&nbsp;
+I'm a self-taught Android app developer focused on building small, useful software that solves everyday problems.
+
+I care about the parts of development that users actually feel:
+
+good ideas · clean interfaces · fast interactions · useful features · privacy
+
+I don't try to build everything.
+
+I prefer focused apps that do one job well, stay lightweight, and avoid unnecessary complexity.
+
+</td><td width="38%" valign="top">Developer profile
+
+Platform     Android
+Language     Java
+UI           Material 3
+Toolchain    Sketchware Pro
+System APIs  Android SDK
+Power APIs   Shizuku
+Distribution GitHub Releases
+
 </td>
-
-<td align="center" width="33%">
-<br/>
-🗓️<br/><br/>
-<strong>Productivity Tools</strong><br/>
-<sub>Apps that save time<br/>and reduce friction</sub>
-<br/>&nbsp;
-</td>
-
-<td align="center" width="33%">
-<br/>
-💡<br/><br/>
-<strong>Problem Solvers</strong><br/>
-<sub>If it bothers me,<br/>I try to build a fix</sub>
-<br/>&nbsp;
-</td>
-
 </tr>
-</table>
+</table><br/><div align="center">Small apps. Real problems. Thoughtful design.
 
-</div>
+</div>---
 
-&nbsp;
+📊 Profile at a Glance
+
+<div align="center"><table>
+<tr><td align="center" width="25%">📱
+
+Android
+
+Apps & utilities
+
+</td><td align="center" width="25%">☕
+
+Java
+
+Primary language
+
+</td><td align="center" width="25%">🎨
+
+Material 3
+
+Design system
+
+</td><td align="center" width="25%">🔐
+
+Privacy
+
+Offline-first mindset
+
+</td></tr>
+</table></div><br/><div align="center">"Android" (https://img.shields.io/badge/Android%2010%2B-3DDC84?style=flat-square&logo=android&logoColor=073D29)
+ 
+"Java" (https://img.shields.io/badge/Java-3DDC84?style=flat-square&logo=openjdk&logoColor=073D29)
+ 
+"Material 3" (https://img.shields.io/badge/Material%203-EAF7EF?style=flat-square&logo=materialdesign&logoColor=0B6B45)
+ 
+"Shizuku" (https://img.shields.io/badge/Shizuku-EAF7EF?style=flat-square&logoColor=0B6B45)
+ 
+"Sketchware Pro" (https://img.shields.io/badge/Sketchware%20Pro-EAF7EF?style=flat-square&logoColor=0B6B45)
+
+</div>---
+
+🚀 Selected Apps
+
+<table>
+<tr><td width="33%" valign="top">⚡ QuickSlate
+
+Quick Settings utilities for Android.
+
+Fast access to useful system actions without opening a full app.
+
+Focus
+
+- Quick Settings tiles
+- Offline operation
+- No background services
+- No internet permission
+- Android 10+
+
+""Stars" (https://img.shields.io/github/stars/musaddiqbaluch/QuickSlate?style=flat-square&color=3DDC84&label=stars&logo=github&logoColor=0B6B45)" (https://github.com/musaddiqbaluch/QuickSlate)
+""Downloads" (https://img.shields.io/github/downloads/musaddiqbaluch/QuickSlate/total?style=flat-square&color=3DDC84&label=APK%20downloads)" (https://github.com/musaddiqbaluch/QuickSlate/releases)
+
+"View repository →" (https://github.com/musaddiqbaluch/QuickSlate)
+
+</td><td width="33%" valign="top">📊 UseWise
+
+Understand your digital habits privately.
+
+Usage statistics designed to stay on the device.
+
+Focus
+
+- Daily / weekly / monthly usage
+- Usage trends
+- Light & dark themes
+- Offline operation
+- "PACKAGE_USAGE_STATS"
+
+""Stars" (https://img.shields.io/github/stars/musaddiqbaluch/UseWise?style=flat-square&color=3DDC84&label=stars&logo=github&logoColor=0B6B45)" (https://github.com/musaddiqbaluch/UseWise)
+""Downloads" (https://img.shields.io/github/downloads/musaddiqbaluch/UseWise/total?style=flat-square&color=3DDC84&label=APK%20downloads)" (https://github.com/musaddiqbaluch/UseWise/releases)
+
+"View repository →" (https://github.com/musaddiqbaluch/UseWise)
+
+</td><td width="33%" valign="top">🔒 Shizu Isolation
+
+USB data protection with one tap.
+
+A lightweight security utility powered by Shizuku.
+
+Focus
+
+- USB charging-only mode
+- Restore MTP when needed
+- No root
+- No PC required
+- No background service
+
+""Stars" (https://img.shields.io/github/stars/musaddiqbaluch/ShizuIsolation?style=flat-square&color=3DDC84&label=stars&logo=github&logoColor=0B6B45)" (https://github.com/musaddiqbaluch/ShizuIsolation)
+""Downloads" (https://img.shields.io/github/downloads/musaddiqbaluch/ShizuIsolation/total?style=flat-square&color=3DDC84&label=APK%20downloads)" (https://github.com/musaddiqbaluch/ShizuIsolation/releases)
+
+"View repository →" (https://github.com/musaddiqbaluch/ShizuIsolation)
+
+</td></tr>
+</table>---
+
+📦 Releases & Reach
+
+<div align="center"><table>
+<tr><td align="center" width="33%">⚡ QuickSlate
+
+["QuickSlate downloads" (https://img.shields.io/github/downloads/musaddiqbaluch/QuickSlate/total?style=for-the-badge&color=3DDC84&label=downloads)]
+
+""QuickSlate stars" (https://img.shields.io/github/stars/musaddiqbaluch/QuickSlate?style=flat-square&color=3DDC84&label=stars&logo=github&logoColor=0B6B45)" (https://github.com/musaddiqbaluch/QuickSlate)
+
+</td><td align="center" width="33%">📊 UseWise
+
+["UseWise downloads" (https://img.shields.io/github/downloads/musaddiqbaluch/UseWise/total?style=for-the-badge&color=3DDC84&label=downloads)]
+
+""UseWise stars" (https://img.shields.io/github/stars/musaddiqbaluch/UseWise?style=flat-square&color=3DDC84&label=stars&logo=github&logoColor=0B6B45)" (https://github.com/musaddiqbaluch/UseWise)
+
+</td><td align="center" width="33%">🔒 Shizu Isolation
+
+["Shizu downloads" (https://img.shields.io/github/downloads/musaddiqbaluch/ShizuIsolation/total?style=for-the-badge&color=3DDC84&label=downloads)]
+
+""Shizu stars" (https://img.shields.io/github/stars/musaddiqbaluch/ShizuIsolation?style=flat-square&color=3DDC84&label=stars&logo=github&logoColor=0B6B45)" (https://github.com/musaddiqbaluch/ShizuIsolation)
+
+</td></tr>
+</table><sub>Download figures represent GitHub release-asset downloads, not unique users.</sub>
+
+</div>---
+
+🧭 What I Build
+
+<table>
+<tr><td align="center" width="25%">🔧
+
+Utilities
+
+Small tools that remove everyday friction.
+
+</td><td align="center" width="25%">📱
+
+Android Tools
+
+System-level features that Android doesn't always expose directly.
+
+</td><td align="center" width="25%">📊
+
+Productivity
+
+Apps that make information easier to understand and actions easier to perform.
+
+</td><td align="center" width="25%">🔐
+
+Privacy
+
+Local-first software with minimal permissions and minimal data collection.
+
+</td></tr>
+</table>---
+
+🎨 Design Philosophy
+
+I like Android interfaces that feel native, calm and intentional.
+
+My current design direction follows Material 3 principles:
+
+Color        semantic and purposeful
+Surfaces     layered instead of heavily shadowed
+Shapes       rounded, expressive and consistent
+Typography   strong hierarchy with restrained emphasis
+Motion       useful, fast and readable
+Dark mode    designed alongside light mode
+Dynamic color supported whenever practical
+
+The goal is not to make an interface look complicated.
+
+The goal is to make it feel like it belongs on the device.
 
 ---
 
-<!-- ░░░░░░░░░░  CURRENTLY  ░░░░░░░░░░ -->
+🔐 Privacy Philosophy
 
-<h3>🚀 &nbsp; Currently</h3>
+Privacy is not a marketing line I want to add after development.
 
-```text
-→  Building    Utility & productivity Android apps
-→  Learning    Java · Android SDK · Shizuku APIs
-→  Exploring   AI-assisted app development
-→  Publishing  GitHub Releases · Third-party stores
-→  Growing     Every single day
-```
+I try to make it part of the architecture.
 
-&nbsp;
+No unnecessary internet access
+No unnecessary analytics
+No unnecessary tracking
+No unnecessary background work
+No unnecessary permissions
 
----
+Prefer:
+Local processing
+Offline-first design
+Minimal permissions
+Transparent behavior
+Small application footprints
 
-<!-- ░░░░░░░░░░  TOOLS  ░░░░░░░░░░ -->
-
-<h3>🔧 &nbsp; Tools &amp; Stack</h3>
-
-<div align="left">
-
-![Java](https://img.shields.io/badge/Java-CEE8DB?style=for-the-badge&logo=openjdk&logoColor=1B6B52)&nbsp;
-![Android](https://img.shields.io/badge/Android-CEE8DB?style=for-the-badge&logo=android&logoColor=1B6B52)&nbsp;
-![Sketchware Pro](https://img.shields.io/badge/Sketchware_Pro-CEE8DB?style=for-the-badge&logoColor=1B6B52)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-CEE8DB?style=for-the-badge&logo=github&logoColor=1B6B52)&nbsp;
-![SVG](https://img.shields.io/badge/SVG%20Design-CEE8DB?style=for-the-badge&logoColor=1B6B52)&nbsp;
-![AI Assisted](https://img.shields.io/badge/AI--Assisted%20Dev-CEE8DB?style=for-the-badge&logoColor=1B6B52)
-
-</div>
-
-&nbsp;
+When an app doesn't need the internet, I prefer not to give it internet access.
 
 ---
 
-<!-- ░░░░░░░░░░  QUOTE  ░░░░░░░░░░ -->
+🛠️ Tools & Technologies
 
-<div align="center">
+<div align="center">"Java" (https://img.shields.io/badge/Java-3DDC84?style=for-the-badge&logo=openjdk&logoColor=073D29)
+"Android" (https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=073D29)
+"Material 3" (https://img.shields.io/badge/Material%203-EAF7EF?style=for-the-badge&logo=materialdesign&logoColor=0B6B45)
+"Sketchware Pro" (https://img.shields.io/badge/Sketchware%20Pro-EAF7EF?style=for-the-badge&logoColor=0B6B45)
+
+<br/>"Android SDK" (https://img.shields.io/badge/Android%20SDK-EAF7EF?style=flat-square&logo=android&logoColor=0B6B45)
+"Shizuku" (https://img.shields.io/badge/Shizuku-EAF7EF?style=flat-square&logoColor=0B6B45)
+"GitHub" (https://img.shields.io/badge/GitHub-EAF7EF?style=flat-square&logo=github&logoColor=0B6B45)
+"SVG" (https://img.shields.io/badge/SVG%20Design-EAF7EF?style=flat-square&logoColor=0B6B45)
+
+</div>---
+
+🌱 Currently
+
+Building     Utility & productivity Android apps
+Learning     Java · Android SDK · Shizuku APIs
+Designing    Material 3 · Dynamic Color · expressive UI
+Exploring    AI-assisted development
+Shipping     APK releases through GitHub
+Improving    Every project, one decision at a time
+
+---
+
+📚 How I Work
 
 <table>
 <tr>
-<td align="center">
+<td width="50%" valign="top">Idea
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Start with a real problem.
 
-📖
+Not every problem needs an app.
 
-&nbsp;
+</td><td width="50%" valign="top">Design
 
-*"Dream, dream, dream.*
-*Dreams transform into thoughts,*
-*and thoughts result in action."*
+Reduce the interface until only useful information remains.
 
-&nbsp;
+</td>
+</tr><tr>
+<td width="50%" valign="top">Build
 
-**— APJ Abdul Kalam**
+Use the Android platform first and add complexity only when it earns its place.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</td><td width="50%" valign="top">Ship
+
+Test on a real device, fix the rough edges, release it, and keep learning.
 
 </td>
 </tr>
-</table>
+</table>---
 
-</div>
+📌 Other Work
 
-&nbsp;
+Lapse
+
+An Android utility project exploring application information and timestamps.
+
+"View Lapse →" (https://github.com/musaddiqbaluch/Lapse)
 
 ---
 
-<!-- ░░░░░░░░░░  FOOTER  ░░░░░░░░░░ -->
+🤖 AI-Assisted Development
 
-<div align="center">
+I use AI as a development accelerator.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=1B6B52&center=true&vCenter=true&width=480&lines=From+Pasni+%E2%80%94+building+for+the+world.;Learning+every+day.+Shipping+anyway.;One+app+at+a+time.;Utility+%C2%B7+Productivity+%C2%B7+Android." alt="Typing SVG"/>
+It helps with:
 
+Research
+Debugging
+Architecture exploration
+API discovery
+Code iteration
+UI experimentation
+Documentation
+
+But the direction still comes from me:
+
+what to build · how it should feel · what matters · what should stay out
+
+---
+
+📫 Find Me
+
+<div align="center"><a href="https://github.com/musaddiqbaluch">
+<img src="https://img.shields.io/badge/GitHub-0B6B45?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+</a>
 &nbsp;
+<a href="https://github.com/musaddiqbaluch?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-EAF7EF?style=for-the-badge&logo=github&logoColor=0B6B45" alt="Projects"/>
+</a></div>---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B6B52,50:CEE8DB,100:CEE8DB&height=120&section=footer&animation=fadeIn" width="100%"/>
+<div align="center">A small idea can still become a useful piece of software.
 
-</div>
+<br/>"Dream, dream, dream.
+Dreams transform into thoughts,
+and thoughts result in action."
+
+— A. P. J. Abdul Kalam
+
+<br/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1400&color=0B6B45&center=true&vCenter=true&width=520&lines=Building+for+Android.;Small+apps.+Real+problems.;Learning+every+day.+Shipping+anyway.;One+useful+app+at+a+time." alt="Typing SVG"/><br/><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B6B45,50:3DDC84,100:EAF7EF&height=115&section=footer&animation=fadeIn" width="100%"/></div>

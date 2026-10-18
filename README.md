@@ -267,5 +267,3 @@ Interested in practical Android development, thoughtful interfaces, and software
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3200&pause=1200&color=FFFFFF&background=073B2A&center=true&vCenter=true&width=480&height=40&lines=Small+tools%2C+thoughtfully+built.;Privacy+without+the+noise.;Useful+by+design.;Always+learning.+Always+refining." alt="Small tools, thoughtfully built. Privacy without the noise. Useful by design. Always learning. Always refining."/><br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:146E52,50:087F5B,100:052E23&height=120&section=footer" width="100%" alt="Green gradient footer"/></div>

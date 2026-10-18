@@ -1,202 +1,215 @@
-<!-- ╭──────────────────────────────────────────────────────────────╮ -->
-<!--                    MUSADDIQ BALUCH README                     -->
-<!-- ╰──────────────────────────────────────────────────────────────╯ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B6B45,55:3DDC84,100:EAF7EF&height=180&section=header&text=Musaddiq%20Baluch&fontSize=48&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=Indie%20Android%20Developer&descAlignY=63&descSize=16&descColor=073D29" width="100%"/>
-
-<br/>
-
-<a href="https://github.com/musaddiqbaluch">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=073D29" alt="Android"/>
+<!-- ╭──────────────────────────────────────────────────────────────╮ --><!--                    MUSADDIQ BALUCH · PROFILE                  --><!-- ╰──────────────────────────────────────────────────────────────╯ --><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:073B2A,50:087F5B,100:52D6A0&height=200&section=header&text=Musaddiq%20Baluch&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Independent%20Android%20Developer&descAlignY=60&descSize=17&descColor=FFFFFF" width="100%" alt="Musaddiq Baluch — Independent Android Developer"/><br/><a href="https://github.com/musaddiqbaluch">
+  <img src="https://img.shields.io/badge/ANDROID-087F5B?style=for-the-badge&logo=android&logoColor=FFFFFF" alt="Android"/>
 </a>
 &nbsp;
 <a href="https://github.com/musaddiqbaluch?tab=repositories">
-  <img src="https://img.shields.io/badge/Java-3DDC84?style=for-the-badge&logo=openjdk&logoColor=073D29" alt="Java"/>
-</a>
-&nbsp;
-<a href="https://github.com/musaddiqbaluch">
-  <img src="https://img.shields.io/badge/Material%203-EAF7EF?style=for-the-badge&logo=materialdesign&logoColor=0B6B45" alt="Material 3"/>
-</a>
-
-<br/><br/>
-
-[![Followers](https://img.shields.io/github/followers/musaddiqbaluch?style=flat-square&color=3DDC84&labelColor=EAF7EF&label=followers&logo=github&logoColor=0B6B45)](https://github.com/musaddiqbaluch?tab=followers)
-&nbsp;
-[![Total stars](https://img.shields.io/github/stars/musaddiqbaluch?style=flat-square&color=3DDC84&labelColor=EAF7EF&label=stars&logo=github&logoColor=0B6B45)](https://github.com/musaddiqbaluch?tab=repositories)
-&nbsp;
-[![Profile views](https://komarev.com/ghpvc/?username=musaddiqbaluch&style=flat-square&color=3DDC84&label=profile+views)](https://github.com/musaddiqbaluch)
-
-<br/>
-
-<em>Self-taught Android developer building small, focused utilities — privacy-first, offline by default, designed with Material 3.</em>
-
-</div>
-
----
-
-## 📱 Apps
-
-<table>
-<tr>
-
-<td align="center" width="33%" valign="top">
-
-### ⚡ QuickSlate
-
-<sub>Quick Settings utilities</sub>
-
-<a href="https://github.com/musaddiqbaluch/QuickSlate/releases">
-  <img src="https://img.shields.io/github/downloads/musaddiqbaluch/QuickSlate/total?style=for-the-badge&color=3DDC84&labelColor=0B6B45&label=downloads" alt="Downloads"/>
-</a>
-<br/>
-<a href="https://github.com/musaddiqbaluch/QuickSlate">
-  <img src="https://img.shields.io/github/stars/musaddiqbaluch/QuickSlate?style=flat-square&color=3DDC84&labelColor=EAF7EF&label=stars&logo=github&logoColor=0B6B45" alt="Stars"/>
-</a>
-<a href="https://github.com/musaddiqbaluch/QuickSlate/releases">
-  <img src="https://img.shields.io/github/v/release/musaddiqbaluch/QuickSlate?style=flat-square&color=3DDC84&labelColor=EAF7EF&label=latest&logoColor=0B6B45" alt="Latest"/>
-</a>
-
-<br/><br/>
-
-**[Open →](https://github.com/musaddiqbaluch/QuickSlate)**
-
-</td>
-
-<td align="center" width="33%" valign="top">
-
-### 📊 UseWise
-
-<sub>Private usage insights</sub>
-
-<a href="https://github.com/musaddiqbaluch/UseWise/releases">
-  <img src="https://img.shields.io/github/downloads/musaddiqbaluch/UseWise/total?style=for-the-badge&color=3DDC84&labelColor=0B6B45&label=downloads" alt="Downloads"/>
-</a>
-<br/>
-<a href="https://github.com/musaddiqbaluch/UseWise">
-  <img src="https://img.shields.io/github/stars/musaddiqbaluch/UseWise?style=flat-square&color=3DDC84&labelColor=EAF7EF&label=stars&logo=github&logoColor=0B6B45" alt="Stars"/>
-</a>
-<a href="https://github.com/musaddiqbaluch/UseWise/releases">
-  <img src="https://img.shields.io/github/v/release/musaddiqbaluch/UseWise?style=flat-square&color=3DDC84&labelColor=EAF7EF&label=latest&logoColor=0B6B45" alt="Latest"/>
-</a>
-
-<br/><br/>
-
-**[Open →](https://github.com/musaddiqbaluch/UseWise)**
-
-</td>
-
-<td align="center" width="33%" valign="top">
-
-### 🔒 Shizu Isolation
-
-<sub>One-tap USB lockdown</sub>
-
-<a href="https://github.com/musaddiqbaluch/ShizuIsolation/releases">
-  <img src="https://img.shields.io/github/downloads/musaddiqbaluch/ShizuIsolation/total?style=for-the-badge&color=3DDC84&labelColor=0B6B45&label=downloads" alt="Downloads"/>
-</a>
-<br/>
-<a href="https://github.com/musaddiqbaluch/ShizuIsolation">
-  <img src="https://img.shields.io/github/stars/musaddiqbaluch/ShizuIsolation?style=flat-square&color=3DDC84&labelColor=EAF7EF&label=stars&logo=github&logoColor=0B6B45" alt="Stars"/>
-</a>
-<a href="https://github.com/musaddiqbaluch/ShizuIsolation/releases">
-  <img src="https://img.shields.io/github/v/release/musaddiqbaluch/ShizuIsolation?style=flat-square&color=3DDC84&labelColor=EAF7EF&label=latest&logoColor=0B6B45" alt="Latest"/>
-</a>
-
-<br/><br/>
-
-**[Open →](https://github.com/musaddiqbaluch/ShizuIsolation)**
-
-</td>
-
-</tr>
-</table>
-
-<sub align="center">Also: <a href="https://github.com/musaddiqbaluch/Lapse">Lapse</a> — app info & timestamps.</sub>
-
----
-
-## 🛠️ Stack
-
-<table>
-<tr>
-<td align="center" width="16%">☕<br/><b>Java</b><br/><sub>Language</sub></td>
-<td align="center" width="16%">🤖<br/><b>Android</b><br/><sub>Platform</sub></td>
-<td align="center" width="16%">🎨<br/><b>Material 3</b><br/><sub>Design</sub></td>
-<td align="center" width="16%">🧩<br/><b>Sketchware Pro</b><br/><sub>IDE</sub></td>
-<td align="center" width="16%">🔌<br/><b>Shizuku</b><br/><sub>System APIs</sub></td>
-<td align="center" width="16%">📦<br/><b>GitHub</b><br/><sub>Releases</sub></td>
-</tr>
-</table>
-
----
-
-## 🧭 Focus
-
-<table>
-<tr>
-<td align="center" width="25%">🔧<br/><br/><b>Utilities</b><br/><sub>Tools that remove friction</sub></td>
-<td align="center" width="25%">📱<br/><br/><b>Android</b><br/><sub>System features, exposed simply</sub></td>
-<td align="center" width="25%">📊<br/><br/><b>Productivity</b><br/><sub>Clarity over clutter</sub></td>
-<td align="center" width="25%">🔐<br/><br/><b>Privacy</b><br/><sub>Local-first, minimal permissions</sub></td>
-</tr>
-</table>
-
----
-
-## ✅ Principles
-
-<table>
-<tr>
-<td align="center" width="25%">🚫<br/><br/><b>No tracking</b><br/><sub>No analytics, no telemetry</sub></td>
-<td align="center" width="25%">📴<br/><br/><b>Offline-first</b><br/><sub>Works without the network</sub></td>
-<td align="center" width="25%">🪶<br/><br/><b>Lightweight</b><br/><sub>Small, fast, quiet</sub></td>
-<td align="center" width="25%">🎯<br/><br/><b>Focused</b><br/><sub>One job, done well</sub></td>
-</tr>
-</table>
-
----
-
-## 🌱 Currently
-
-<table>
-<tr>
-<td align="center" width="33%">🚧<br/><br/><b>Building</b><br/><sub>Utility Android apps</sub></td>
-<td align="center" width="33%">📚<br/><br/><b>Learning</b><br/><sub>Java · Android SDK · Shizuku</sub></td>
-<td align="center" width="33%">🎨<br/><br/><b>Designing</b><br/><sub>Material 3 · Dynamic Color</sub></td>
-</tr>
-</table>
-
----
-
-## 📫 Find Me
-
-<div align="center">
-
-<a href="https://github.com/musaddiqbaluch">
-  <img src="https://img.shields.io/badge/GitHub-0B6B45?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/JAVA-087F5B?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" alt="Java"/>
 </a>
 &nbsp;
 <a href="https://github.com/musaddiqbaluch?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-EAF7EF?style=for-the-badge&logo=github&logoColor=0B6B45" alt="Projects"/>
-</a>
+  <img src="https://img.shields.io/badge/MATERIAL%203-087F5B?style=for-the-badge&logo=materialdesign&logoColor=FFFFFF" alt="Material 3"/>
+</a><br/><br/>
 
-</div>
+<a href="https://github.com/musaddiqbaluch?tab=followers">
+  <img src="https://img.shields.io/github/followers/musaddiqbaluch?style=flat-square&label=Followers&color=087F5B&labelColor=E8F5EE&logo=github&logoColor=073B2A" alt="GitHub followers"/>
+</a>
+&nbsp;
+<a href="https://github.com/musaddiqbaluch?tab=repositories">
+  <img src="https://img.shields.io/github/stars/musaddiqbaluch?style=flat-square&label=Stars&color=087F5B&labelColor=E8F5EE&logo=github&logoColor=073B2A" alt="GitHub stars"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=musaddiqbaluch&style=flat-square&color=087F5B&label=Profile+views" alt="Profile views"/><br/><br/>
+
+I build Android apps to make everyday tasks simpler.
+
+Self-taught, detail-oriented, and interested in the space between what Android can do and what people actually need.
+
+<br/>Based in Pasni, Balochistan, Pakistan.
+
+</div>---
+
+About Me
+
+I'm an independent Android developer who believes good software doesn't need to be complicated to be useful.
+
+I work primarily with Java and the Android SDK, building focused utilities with thoughtful interfaces, sensible permissions, and an emphasis on privacy. I enjoy exploring Android's capabilities, understanding how things work beneath the surface, and turning small ideas into practical applications.
+
+My approach is straightforward: solve a real problem, keep the experience clear, and avoid adding complexity without a reason.
+
+<details>
+<summary><b>A little more about my approach</b></summary><br/>- Self-taught: Learning through experimentation, implementation, and fixing what breaks.
+- Design-conscious: Exploring Material 3, dynamic color, expressive interfaces, and Android's evolving design language.
+- Privacy-minded: Favoring local processing, minimal permissions, and offline functionality wherever practical.
+- Independent by choice: Building at my own pace, following ideas worth exploring, and improving each project through iteration.
+
+</details>---
+
+Projects
+
+A selection of Android utilities and experiments I'm building and maintaining.
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/musaddiqbaluch/Census">Census</a>
+
+Know what's installed.
+
+An Android utility focused on installed-app insights, showing the total number of user-installed apps and how they are distributed across installation sources.
+
+<sub>Android · Java · Material 3</sub>
+
+<br/><a href="https://github.com/musaddiqbaluch/Census">
+  <img src="https://img.shields.io/badge/Explore%20Project-087F5B?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Explore Census"/>
+</a>
+&nbsp;
+<a href="https://github.com/musaddiqbaluch/Census/releases">
+  <img src="https://img.shields.io/github/downloads/musaddiqbaluch/Census/total?style=flat-square&label=Downloads&color=087F5B&labelColor=E8F5EE" alt="Census downloads"/>
+</a></td>
+<td width="50%" valign="top"><a href="https://github.com/musaddiqbaluch/QuickSlate">QuickSlate</a>
+
+Useful actions, within reach.
+
+A utility project exploring practical Quick Settings tools and ways to make everyday Android interactions more convenient.
+
+<sub>Android · Java · System utilities</sub>
+
+<br/><a href="https://github.com/musaddiqbaluch/QuickSlate">
+  <img src="https://img.shields.io/badge/Explore%20Project-087F5B?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Explore QuickSlate"/>
+</a>
+&nbsp;
+<a href="https://img.shields.io/github/downloads/musaddiqbaluch/QuickSlate/total">
+  <img src="https://img.shields.io/github/downloads/musaddiqbaluch/QuickSlate/total?style=flat-square&label=Downloads&color=087F5B&labelColor=E8F5EE" alt="QuickSlate downloads"/>
+</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/musaddiqbaluch/UseWise">UseWise</a>
+
+Understand your usage.
+
+A privacy-minded utility project centered on making app-usage information easier to understand.
+
+<sub>Android · Java · Usage insights</sub>
+
+<br/><a href="https://github.com/musaddiqbaluch/UseWise">
+  <img src="https://img.shields.io/badge/Explore%20Project-087F5B?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Explore UseWise"/>
+</a>
+&nbsp;
+<a href="https://img.shields.io/github/downloads/musaddiqbaluch/UseWise/total">
+  <img src="https://img.shields.io/github/downloads/musaddiqbaluch/UseWise/total?style=flat-square&label=Downloads&color=087F5B&labelColor=E8F5EE" alt="UseWise downloads"/>
+</a></td>
+<td width="50%" valign="top"><a href="https://github.com/musaddiqbaluch/ShizuIsolation">Shizu Isolation</a>
+
+A more deliberate approach to device security.
+
+A focused utility for simplifying USB lockdown workflows on supported Android configurations.
+
+<sub>Android · Device security · System controls</sub>
+
+<br/><a href="https://github.com/musaddiqbaluch/ShizuIsolation">
+  <img src="https://img.shields.io/badge/Explore%20Project-087F5B?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Explore Shizu Isolation"/>
+</a>
+&nbsp;
+<a href="https://img.shields.io/github/downloads/musaddiqbaluch/ShizuIsolation/total">
+  <img src="https://img.shields.io/github/downloads/musaddiqbaluch/ShizuIsolation/total?style=flat-square&label=Downloads&color=087F5B&labelColor=E8F5EE" alt="Shizu Isolation downloads"/>
+</a></td>
+</tr>
+</table><sub>More experiments: <a href="https://github.com/musaddiqbaluch/Lapse">Lapse</a> — app information and timestamps.</sub>
+
+<sub>Project descriptions reflect their intended focus; availability and features may vary by repository version.</sub>
 
 ---
 
-<div align="center">
+Tools & Technologies
 
-> *"Simplicity is the ultimate sophistication."*
-> — **Leonardo da Vinci**
+<div align="center"><a href="https://developer.android.com/">
+  <img src="https://img.shields.io/badge/Android-087F5B?style=flat-square&logo=android&logoColor=FFFFFF" alt="Android"/>
+</a>
+<a href="https://docs.oracle.com/en/java/">
+  <img src="https://img.shields.io/badge/Java-087F5B?style=flat-square&logo=openjdk&logoColor=FFFFFF" alt="Java"/>
+</a>
+<a href="https://m3.material.io/">
+  <img src="https://img.shields.io/badge/Material%203-087F5B?style=flat-square&logo=materialdesign&logoColor=FFFFFF" alt="Material 3"/>
+</a>
+<a href="https://github.com/Sketchware-Pro/Sketchware-Pro">
+  <img src="https://img.shields.io/badge/Sketchware%20Pro-087F5B?style=flat-square&logo=android&logoColor=FFFFFF" alt="Sketchware Pro"/>
+</a>
+<a href="https://git-scm.com/">
+  <img src="https://img.shields.io/badge/Git-087F5B?style=flat-square&logo=git&logoColor=FFFFFF" alt="Git"/>
+</a>
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/GitHub-087F5B?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+</a></div>My main interests include Java-based Android development, system-level capabilities, Material 3 design, dynamic color, and building interfaces that feel at home on modern Android.
 
-<br/>
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1400&color=0B6B45&center=true&vCenter=true&width=520&lines=Small+apps.+Real+problems.;Offline+by+default.;Privacy+by+design.;One+useful+app+at+a+time." alt="Typing SVG"/>
+What Guides My Work
 
-<br/>
+<table>
+<tr>
+<td width="50%" valign="top">Privacy by design
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EAF7EF,50:3DDC84,100:0B6B45&height=115&section=footer&animation=fadeIn" width="100%"/>
+Collect less. Request only what is needed. Prefer keeping personal data on the device.
 
-</div> 
+</td>
+<td width="50%" valign="top">Simplicity with purpose
+
+A feature should earn its place. A clean interface should make the underlying task easier, not merely look attractive.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">Offline where possible
+
+Useful software shouldn't depend on a connection when the task can be handled locally.
+
+</td>
+<td width="50%" valign="top">Progress through iteration
+
+Build, test, find the rough edges, and improve. Good software is often the result of many small, deliberate decisions.
+
+</td>
+</tr>
+</table>---
+
+Currently
+
+- Building: Practical Android utilities, including Census.
+- Learning: Java, Android APIs, system behavior, and compatibility across Android versions.
+- Refining: Material 3, dynamic color, responsive layouts, and expressive UI details.
+- Improving: Reliability, maintainability, and the everyday experience of using my apps.
+
+---
+
+Beyond the Code
+
+I'm from Pasni, a coastal town in Balochistan, Pakistan, along the Arabian Sea. It's a part of the Makran coast, where the sea and the surrounding landscape are an everyday reality.
+
+My work happens far from the usual image of a well-equipped development studio. I value resourcefulness, learning by doing, and making the most of what I have. Those circumstances don't define the quality of software I aim to build; they make persistence and practical problem-solving especially meaningful to me.
+
+I don't believe good ideas need a particular postcode. They need curiosity, patience, and the willingness to keep working on them.
+
+---
+
+Get in Touch
+
+<div align="center"><a href="https://github.com/musaddiqbaluch">
+  <img src="https://img.shields.io/badge/GitHub-073B2A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub profile"/>
+</a>
+&nbsp;
+<a href="https://github.com/musaddiqbaluch?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20My%20Work-087F5B?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Explore repositories"/>
+</a><br/><br/>
+
+Interested in thoughtful Android development, practical utilities, and software that respects its users.
+
+</div>---
+
+<div align="center">A thought I try to build by
+
+“Make it useful. Make it thoughtful. Leave out what doesn't belong.”
+
+<sub>Not a slogan for perfection — a reminder of what matters.</sub>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1200&color=087F5B&center=true&vCenter=true&width=480&lines=Small+tools%2C+thoughtfully+built.;Privacy+without+the+noise.;Useful+by+design.;Always+learning.+Always+refining." alt="Small tools, thoughtfully built. Privacy without the noise. Useful by design. Always learning. Always refining."/><br/><img src="https://capsule-render.vercel.app/api?type=waving&color=0:52D6A0,50:087F5B,100:073B2A&height=120&section=footer" width="100%" alt="Green gradient footer"/></div>

@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/github/stars/musaddiqbaluch?style=flat-square&label=Stars&color=087F5B&labelColor=E8F5EE&logo=github&logoColor=073B2A" alt="GitHub stars"/>
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=musaddiqbaluch&style=flat-square&color=087F5B&label=Profile+views" alt="Profile views"/><br/><br/>
+<img src="https://komarev.com/ghpvc/?username=musaddiqbaluch&style=flat-square&color=087F5B&label=Profile%20views" alt="Profile views"/>
 
 I build Android apps to make everyday tasks simpler.
 
